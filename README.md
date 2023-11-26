@@ -16,5 +16,4 @@ https://muhkashiff.github.io/belly-button-challenge/
 # Data Source:
 "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json"
 # Reference:
-https://github.com/matin-n/Belly-Button-Biodiversity<br>
-"resultArray = metadata.filter((sampleNum) => sampleNum.id == sample);" was taken from above example along with some hints of charts.
+https://github.com/matin-n/Belly-Button-Biodiversity<br>"resultArray = metadata.filter((sampleNum) => sampleNum.id == sample);" was taken from above example along with some hints of charts.
